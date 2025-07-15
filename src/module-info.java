@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module SnackShell_app {
-}
